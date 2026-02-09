@@ -19,7 +19,7 @@ perform-backup() {
        fi
 }
 
-perform_backup
+perform-backup
 
 
 
